@@ -1,0 +1,20 @@
+Epoch 025
+Train_loss: 0.1616 Val_loss 0.1807
+Train_iou 0.8146 Val_iou 0.8287
+Loss: function
+Optimizer: AdamW (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    fused: None
+    initial_lr: 0.0001
+    lr: 0.0001
+    maximize: False
+    weight_decay: 0.01
+)
+Epoch_count: 25
+Scheduler: NoneType

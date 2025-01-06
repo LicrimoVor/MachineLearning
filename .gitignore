@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+stylegan2/
+data/
+data*
+model
+model_*
+__pycache__/
+__pycache__
